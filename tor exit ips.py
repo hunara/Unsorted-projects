@@ -1,4 +1,4 @@
-#! /bin/python3.7
+#! user/bin/env python3
 
 # written by BSzekley on October 17, 2019 for refereance
 
